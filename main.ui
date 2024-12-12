@@ -27,7 +27,7 @@
    <widget class="QPushButton" name="getCoffeeInfoButton">
     <property name="geometry">
      <rect>
-      <x>200</x>
+      <x>380</x>
       <y>20</y>
       <width>411</width>
       <height>31</height>
@@ -40,6 +40,24 @@
     </property>
     <property name="text">
      <string>Вывести информацию о кофе</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="changeCoffeeInformationButton">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>20</y>
+      <width>311</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>16</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Изменить ифнормацию о кофе</string>
     </property>
    </widget>
   </widget>
